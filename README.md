@@ -1,10 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hii 👋, I'm Nitin Nayak</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NitinNayak83&label=Profile%20views&color=0e75b6&style=flat" alt="NitinNayak83" />
+</p>
+
+> 👀 I am Nitin Nayak, working as a Software Developer Intern at CoreCard Software Inc.
+
+> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
+
+> 💬 Ask me about **Web Development**
+
+> 📫 How to reach me **nitinnayak52920@gmail.com**
+
+> ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinNayak83&" alt="NitinNayak83" />
+</p>
