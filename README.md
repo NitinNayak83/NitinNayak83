@@ -15,5 +15,6 @@
 > ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinNayak83&" alt="NitinNayak83" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinNayak83" alt="GitHub Streak for NitinNayak83" />
 </p>
+
